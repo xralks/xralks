@@ -1,7 +1,7 @@
 <h2 align="left">Hola 👋! Mi nombre es Ramiro Sepúlveda y soy estudiante en ingenieria en informatica.</h2>
 
 ###
-<p>https://ramirosepulveda.netlify.app/</p>
+<p>https://ramirosepulveda.cl</p>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=xralks&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
