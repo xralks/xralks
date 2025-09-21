@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Ramiro Sepúlveda y soy estudiante en ingenieria en informatica.</h2>
+<h2 align="left">Hola!!👋 Soy Ramiro Sepúlveda, Desarrollador Frontend, con experiencia en HTML, CSS, JavaScript, PHP y WordPress. Enfocado en UX/UI, SEO, bases de datos SQL y metodologías ágiles. Apasionado por la tecnología, el aprendizaje continuo y el trabajo en equipo.</h2>
 
 ###
 <p>https://ramirosepulveda.cl</p>
